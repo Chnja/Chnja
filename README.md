@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 🌱 **Research Area** 
 
- Deep Learning - Computer Vision & Image Processing
+ Remote Sensing - Deep Learning - Computer Vision & Image Processing
 
 📫 **Contact**   : chj1997@whu.edu.cn
