@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     
  - B.Eng. in Electronic Information School, Wuhan University (2015-2019)
  - M.S in Electronic Information School, Wuhan University (2019-2022)
- - Ph.D. in Electronic Information School, Wuhan University (2022-)
+ - Ph.D. in Electronic Information School, Wuhan University (2022-2025)
 
 🌱 **Research Area** 
 
